@@ -3,6 +3,6 @@
 ## The output should be
 ## Are you 21 years old? has: –
 ## 14 letters, 2 digits, 4 spaces and 1 special characters.
-## Thecodefor the above codeis in Program.cs👆🏾
-## well documented for easy understanding.😎
+## The code for the above Questionis in Program.cs👆🏾
+## well commented for easy understanding.😎
 # Happy Learning😉
